@@ -2,7 +2,7 @@
 Data Mining Algorithms implemented in JavaScript using Eclipse.
 
 # Social Media Survey
-Through this mini project,the relation between social media and various factors in  a student’s academic and social behaviouris analysed. 
+Through this mini project,the relation between social media and various factors in  a student’s academic and social behaviour is analysed. 
 
 # Alogrithms Implemented
 
