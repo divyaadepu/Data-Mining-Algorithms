@@ -24,7 +24,7 @@ table, tr,th, td {
 
 <%
 
-String csvFile = "D:/final.csv";
+String csvFile = "final.csv";
 		  FileInputStream fis = new FileInputStream(csvFile);
 		  DataInputStream myInput = new DataInputStream(fis);
         String line = "";
