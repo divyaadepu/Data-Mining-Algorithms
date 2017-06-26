@@ -27,7 +27,7 @@ table, tr,th,td {
 
 <%
 
-        String csvFile = "D:/social.csv";
+        String csvFile = "social.csv";
         BufferedReader br = null;
         String line = "";
         double sum = 0.0; 
