@@ -25,7 +25,7 @@ table, tr,th,td {
 <%@ page import ="java.lang.Math"%>
 <%
 
-String csvFile = "D:/Exp3.csv";
+String csvFile = "Exp3.csv";
 BufferedReader br = null;
 Scanner sc=new Scanner(System.in);
 String line = "";
