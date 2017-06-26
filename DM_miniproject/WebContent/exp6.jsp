@@ -26,7 +26,7 @@ table, tr,th,td {
 
 <%
 
-String csvFile = "D:/Exp3.csv";
+String csvFile = "Exp3.csv";
 		  FileInputStream fis = new FileInputStream(csvFile);
 		  DataInputStream myInput = new DataInputStream(fis);
         String line = "";
